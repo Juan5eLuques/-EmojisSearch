@@ -1,0 +1,17 @@
+.appContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    background-color: transparent;
+    width: 300px;
+    height: 30px;
+    font-size: 25px;
+}
+
+h1{ 
+    font-size: 50px;
+}
